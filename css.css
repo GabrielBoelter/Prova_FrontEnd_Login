@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    max-width: 400px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.cabecalho {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    font-style: oblique;
+}
+.textoinicial{
+    padding: 10px;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 16px;
+}
+.textoatd{
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+.textoatd2{
+    padding: 10px;
+    margin-top: 4px;
+    border: 1px solid #000000;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.chat-input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-top: 1px solid #ccc; 
+    box-sizing: border-box;
+}
+
+.botao {
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
